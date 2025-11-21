@@ -28,7 +28,7 @@ Starting with web full-stack and AI development in high school, I'm trying expan
 * **Tech:** C/C++, ESP32, MPU6050
 * **Description:**
     * Developed flight control firmware from scratch for a quadcopter.
-    * Researching and implementing **QP (Quad-Programming) Motor Control System** for efficient thrust management.
+    * Researching and implementing **QP (Quadratic-Programming) Motor Control System** for efficient thrust management.
     * Optimized motor output logic for stable hovering and maneuvering.
 
 **Line Tracer**
