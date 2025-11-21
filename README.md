@@ -51,12 +51,12 @@ Starting with web full-stack and AI development in high school, I'm trying expan
 
 #### Software & AI (High School)
 
-**Secure School Community Platform (Full-Stack)**
+**School Community Platform**
 > *Real-time Web Service with Enhanced Security*
 * **Tech:** Linux, Web Socket, Custom Security Logic
 * **Description:**
     * Built a real-time chat and community platform.
-    * **Security:** Implemented custom defenses against **SQL Injection** and **XSS**. Developed an IP-based Rate Limiting algorithm to mitigate **DoS attacks**.
+    * **Security:** Implemented custom defenses against **SQL Injection** , **CRSF**, and **XSS**. Developed an IP-based Rate Limiting algorithm to mitigate **DoS attacks**.
     * Successfully deployed on cloud infrastructure with domain integration.
 
 **AI Profanity Filter (NLP)**
