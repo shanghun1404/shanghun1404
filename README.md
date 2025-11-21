@@ -33,7 +33,7 @@ Starting with web full-stack and AI development in high school, I'm trying expan
 
 **Line Tracer**
 > *High-speed Line Following Robot*
-* **Tech:** Embedded C, IR Sensors, Stepper Motor
+* **Tech:** Embedded C, IR Sensors, Stepper Motor, STM32
 * **Description:**
     * Designed a line tracing algorithm using an array of IR sensors.
     * Utilized **Stepper Motors** for precise position control and smooth cornering.
